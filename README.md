@@ -27,6 +27,12 @@ Make sure you *do not* delete the interior effect rack device that is standing t
 
 Also, do not unmute the bottom two chains that are labeled `From A (muted)` and `From B (muted)`. These are also critical pieces of how this device is working.
 
+### Preset Snapshots
+There are a few preset snapshots to get you started.
+* `Init` - Pure dry signal. Click this if things get too loud!
+* `Dub Cross` - A fun and mellow cross-feedback setup that's a nice trippy basis.
+* `Independent` - The two chains do not feed into one another. They are two independent feedback loops.
+
 ### Mapped Controls
 The effects rack has 7 mapped knobs.
 
